@@ -315,6 +315,7 @@ a:hover {
     margin: 0;
 }
 
+
 .navbar .nav {
     padding-top: 2px;
     margin-right: -16px;
@@ -354,6 +355,16 @@ a:hover {
 .nav-invert .navbar .nav {
     float: left;
 }
+
+.col-sm-3.keywords{
+    color:#F3976C;
+}
+
+.navbar-header .keywords{
+    color:#cccccc;
+    font-size:1px;
+}
+
 
 .nav-invert .navbar-header,
 .nav-invert .navbar-brand {
