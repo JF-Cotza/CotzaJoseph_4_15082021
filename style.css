@@ -690,8 +690,16 @@ a {
     margin: auto auto auto auto;
 }
 
-p,blockquote figcaption {
+p {
     font-size: 11px;
+}
+
+blockquote figcaption{
+    font-size: 15px;
+}
+
+blockquote{
+    border: none;
 }
 
 .col-sm-12 p, blockquote{ /*ajouter dans les media-queries*/
@@ -842,7 +850,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.png");
 }
 
 @media (max-width: 1024px) {
