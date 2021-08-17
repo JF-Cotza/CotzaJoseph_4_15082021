@@ -690,7 +690,7 @@ a {
     margin: auto auto auto auto;
 }
 
-p {
+p,blockquote figcaption {
     font-size: 11px;
 }
 
