@@ -338,7 +338,8 @@ a:hover {
 
 .nav > li a:hover,
 .nav > li a:focus {
-    background: transparent;
+   /* background: transparent;*/
+   background: red;
 }
 
 .navbar-toggle {
@@ -872,7 +873,7 @@ h4 {
 }
 
 
-.col-sm-3 .social span{
+.col-sm-3 .social, .col-sm-3 .social span{
     height: 30px;
     width: 30px;
     color:black;
