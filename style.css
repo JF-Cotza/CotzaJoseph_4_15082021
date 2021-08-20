@@ -703,7 +703,6 @@ blockquote{
 }
 
 .col-sm-12 p, blockquote{ /*ajouter dans les media-queries*/
-    font-size: 18px;
     width: 613px;
     margin:auto;
 }
@@ -1056,7 +1055,7 @@ h4 {
     }
 }
 
-.col-sm-12 .lyon{
+.col-sm-12 p.lyon{
     font-size: 10px;
 }
 
