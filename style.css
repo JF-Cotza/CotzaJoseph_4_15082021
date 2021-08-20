@@ -877,6 +877,7 @@ h4 {
 
 
 .col-sm-3 .social, .col-sm-3 .social span{
+    display: inline-block;
     height: 30px;
     width: 30px;
     color:black;
