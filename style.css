@@ -338,8 +338,11 @@ a:hover {
 
 .nav > li a:hover,
 .nav > li a:focus {
-   /* background: transparent;*/
-   background: red;
+   background: transparent;
+}
+
+*:focus{
+    border:10px solid grey;
 }
 
 .navbar-toggle {
