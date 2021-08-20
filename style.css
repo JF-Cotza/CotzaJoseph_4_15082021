@@ -700,12 +700,9 @@ blockquote figcaption{
 
 blockquote{
     border: none;
+    width:100%;
 }
 
-.col-sm-12 p, blockquote{ /*ajouter dans les media-queries*/
-    width: 613px;
-    margin:auto;
-}
 
 .tight-width-whitespace {
     max-width: 600px;
