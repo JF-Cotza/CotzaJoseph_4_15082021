@@ -730,7 +730,7 @@ blockquote{
     margin: auto auto auto auto;
 }
 
-footer .col-sm-3 .social{
+footer .social .col-sm-3{
     width: 100px;
 }
 
