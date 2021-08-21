@@ -726,12 +726,12 @@ blockquote{
 
 .social {
     color:black;
-    /*max-width: 400px;*/
     margin: auto auto auto auto;
 }
 
 footer .social .col-sm-3{
-    width: 100px;
+    display: flex;
+    justify-content: space-between;
 }
 
 h2 {
