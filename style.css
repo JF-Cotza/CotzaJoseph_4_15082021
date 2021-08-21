@@ -7,6 +7,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.page-container{
+    width:100%;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -365,16 +369,6 @@ a:hover {
 .nav-invert .navbar .nav {
     float: left;
 }
-
-.col-sm-3.keywords{
-    color:#F3976C;
-}
-
-.navbar-header .keywords{
-    color:#cccccc;
-    font-size:1px;
-}
-
 
 .nav-invert .navbar-header,
 .nav-invert .navbar-brand {
