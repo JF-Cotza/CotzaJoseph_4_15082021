@@ -725,8 +725,12 @@ blockquote{
 }
 
 .social {
-    color:black;
+    
     margin: auto auto auto auto;
+}
+
+footer *{
+    color:black;
 }
 
 footer .social .col-sm-3{
