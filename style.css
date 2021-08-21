@@ -338,11 +338,11 @@ a:hover {
     text-align: inherit;
 }
 
-/*
+
 .nav > li a:hover,
 .nav > li a:focus {
    background: transparent;
-}*/
+}
 
 *:focus{
     border:10px solid grey;
