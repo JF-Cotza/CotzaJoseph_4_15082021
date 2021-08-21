@@ -725,7 +725,7 @@ blockquote{
 }
 
 .social {
-    color:black
+    color:black;
     max-width: 400px;
     margin: auto auto auto auto;
 }
