@@ -730,6 +730,10 @@ blockquote{
     margin: auto auto auto auto;
 }
 
+footer .social{
+    width: 100px;
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
