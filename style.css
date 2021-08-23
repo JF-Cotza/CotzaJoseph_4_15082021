@@ -309,7 +309,6 @@ a:hover {
 }
 
 .navbar-brand img {
-   /* height: 40px;*/
     width:215px;
     margin: 0 5px 0 0;
     display: inline;
@@ -626,7 +625,6 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    /*color: #575757!important;*/
 }
 
 .container {
@@ -793,7 +791,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #000000 !important;/*#FFFFFF!important;*/
+    color: #000000 !important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1046,10 +1044,7 @@ h4 {
         overflow-x: hidden;
         position: relative;
     }
-    /*.bloc {
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
-    }*/
+    
     .bloc-group,
     .bloc-group .bloc {
         display: block;
@@ -1058,8 +1053,6 @@ h4 {
     .bloc-fill-screen .fill-bloc-top-edge,
     .bloc-fill-screen .fill-bloc-bottom-edge {
         padding: 0 20px;
-        /*padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);*/
     }
 }
 
