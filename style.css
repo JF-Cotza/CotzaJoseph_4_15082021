@@ -310,6 +310,7 @@ a:hover {
 
 .navbar-brand img {
     width:215px;
+    height: auto;
     margin: 0 5px 0 0;
     display: inline;
 }
