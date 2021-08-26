@@ -293,6 +293,10 @@ a:hover {
     font-size: 32px;
 }
 
+.col-sm-12 h1{
+    color:white;
+}
+
 .navbar {
     margin-bottom: 0;
     z-index: 1;
